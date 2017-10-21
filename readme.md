@@ -26,7 +26,7 @@ Abel García Luis
 127.0.0.1 localhost
 127.0.0.1 blog-app.dev
 ```
-* Finally restart the apache server and go to browser searching blog-app.dev
+* Finally restart the apache server and go to your browser searching blog-app.dev
 
 ## Database
 The sql dump is in _SQL/blog-app.sql
