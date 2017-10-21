@@ -1,6 +1,6 @@
 ## Description
 
-Project with laravel blog-app to create posts, delete, update.
+Project with laravel blog-app to create posts, delete and update.
 
 ## Author
 Abel García Luis
